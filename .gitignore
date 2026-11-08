@@ -1,0 +1,28 @@
+# GitHub internal implementation guide & roadmap
+GITHUB_IMPLEMENTATION.md
+docs/GITHUB_ROADMAP.md
+
+# Python artifacts & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local scan results & staging directories
+output/
+output_test/
+*.partial/
